@@ -1,0 +1,43 @@
+/* ------------Aula 9 e 10-----------
+
+body {
+    background-color: rgb(105, 105, 173);
+    color: white;
+    font: normal 20px Arial;
+}  
+
+h1 {
+    color: rgb(255, 212, 22);
+}
+
+div#area {
+    font: normal 20px Arial;
+    background: green;
+    color: white;
+    width: 200px;
+    height: 200px;
+    line-height: 200px;
+    text-align: center;
+} */
+  /* ------parte 2 aula 10-Somando valores---- */
+body{
+    font: 18pt Arial;
+}
+
+input{
+    font: 18pt Arial;
+    width: 100px;
+}
+
+div#res{
+    margin-top: 20px;
+}
+/*------------Aula 11-----------*/
+
+div#main {
+    display: block;
+    width: min(30rem, 100%);
+    margin: 0 auto;
+    border: solid 2px black;
+    padding: 30px;
+}
