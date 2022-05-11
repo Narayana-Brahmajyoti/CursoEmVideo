@@ -1,0 +1,55 @@
+*{
+    box-sizing: border-box;
+}
+
+:root{
+    font-size: 62.5%;
+}
+
+img#foto {
+    padding-top: 2rem;
+    max-width: 100%;
+    border-radius: 50%;
+}
+
+body {
+    background: blueviolet;
+    font: normal 2rem Arial;
+    text-align: center;
+}
+
+header {
+    color: white;
+}
+
+section {
+    background: white;
+    border-radius: 1rem; 
+    padding: 1.5rem;
+    width: 50rem;
+    margin: auto;
+    box-shadow: 0.5rem 0.5rem 1rem rgba(0, 0, 0, 0.432);
+}
+
+.btn {
+    background: blueviolet;
+    color: white;
+    border: 0.2rem solid gray;
+    border-radius: 0.5rem;
+    padding: 1rem;
+}
+
+.btn:hover {
+    background: rgb(42, 9, 160);
+    filter: brightness(1.2);
+    ;
+}
+
+div{
+    padding: .8rem;
+}
+
+footer {
+    color: white;
+    font-style: italic;
+}
