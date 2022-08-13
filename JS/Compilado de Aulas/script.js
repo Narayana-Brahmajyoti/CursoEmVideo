@@ -142,3 +142,14 @@
 //         console.log('[ERRO] Dia inválido!')
 //         break
 // }
+
+//--------------Aula 13--------------
+
+//------------------Aula 14-Repeticoes- while e For- repetições---------------
+// var cont=1 
+// while(cont<=10){
+//     console.log(cont) c++
+// }
+console.log("vai começar...")
+for (var cont = 1 ;  cont<=10 ; cont++){console.log(cont) }
+console.log("Fim")

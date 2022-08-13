@@ -1,0 +1,31 @@
+*{
+    box-sizing: border-box;
+}
+
+:root{
+    font-size: 62.5%;
+}
+
+body {
+    background: blueviolet;
+    font: normal 1.5rem Arial;
+    text-align: center;
+}
+
+header {
+    color: white;
+}
+
+section {
+    background: white;
+    border-radius: 1rem; 
+    padding: 1.5rem;
+    width: 50rem;
+    margin: auto;
+    box-shadow: 0.5rem 0.5rem 1rem rgba(0, 0, 0, 0.432);
+}
+
+footer {
+    color: white;
+    font-style: italic;
+}
